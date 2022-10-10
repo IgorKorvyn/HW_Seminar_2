@@ -1,0 +1,15 @@
+D:\GB\Знакомство_с_языками_программирования\Семинары\2\HomeWorks\10\bin\Debug\net6.0\10.exe
+D:\GB\Знакомство_с_языками_программирования\Семинары\2\HomeWorks\10\bin\Debug\net6.0\10.deps.json
+D:\GB\Знакомство_с_языками_программирования\Семинары\2\HomeWorks\10\bin\Debug\net6.0\10.runtimeconfig.json
+D:\GB\Знакомство_с_языками_программирования\Семинары\2\HomeWorks\10\bin\Debug\net6.0\10.dll
+D:\GB\Знакомство_с_языками_программирования\Семинары\2\HomeWorks\10\bin\Debug\net6.0\10.pdb
+D:\GB\Знакомство_с_языками_программирования\Семинары\2\HomeWorks\10\obj\Debug\net6.0\10.csproj.AssemblyReference.cache
+D:\GB\Знакомство_с_языками_программирования\Семинары\2\HomeWorks\10\obj\Debug\net6.0\10.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство_с_языками_программирования\Семинары\2\HomeWorks\10\obj\Debug\net6.0\10.AssemblyInfoInputs.cache
+D:\GB\Знакомство_с_языками_программирования\Семинары\2\HomeWorks\10\obj\Debug\net6.0\10.AssemblyInfo.cs
+D:\GB\Знакомство_с_языками_программирования\Семинары\2\HomeWorks\10\obj\Debug\net6.0\10.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство_с_языками_программирования\Семинары\2\HomeWorks\10\obj\Debug\net6.0\10.dll
+D:\GB\Знакомство_с_языками_программирования\Семинары\2\HomeWorks\10\obj\Debug\net6.0\refint\10.dll
+D:\GB\Знакомство_с_языками_программирования\Семинары\2\HomeWorks\10\obj\Debug\net6.0\10.pdb
+D:\GB\Знакомство_с_языками_программирования\Семинары\2\HomeWorks\10\obj\Debug\net6.0\10.genruntimeconfig.cache
+D:\GB\Знакомство_с_языками_программирования\Семинары\2\HomeWorks\10\obj\Debug\net6.0\ref\10.dll
